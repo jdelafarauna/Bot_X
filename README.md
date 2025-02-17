@@ -1,5 +1,9 @@
 # Publicador de Tweets con Python
 
+
+![Language](https://img.shields.io/badge/language-Python-blue)  
+![Status](https://img.shields.io/badge/status-finished-green)
+
 Este proyecto es un ejemplo sencillo de cómo publicar un tweet automáticamente utilizando Python y la biblioteca **Tweepy**. Con este código, puedes conectarte a tu cuenta de X (anteriormente Twitter) y enviar un mensaje directamente desde tu programa.
 
 ## 🚀 ¿Qué hace este código?
