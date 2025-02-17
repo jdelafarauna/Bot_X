@@ -51,6 +51,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el bot, abre un issue o envía un pull request.
 
-## 📬 Contacto
-Si tienes preguntas o sugerencias, contáctame en [tu correo o red social].
 
