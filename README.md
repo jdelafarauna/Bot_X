@@ -15,7 +15,7 @@ Este proyecto es un bot automatizado que obtiene trending topics en español des
 ## 🛠️ Instalación y Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Bot_X.git
+   git clone https://github.com/jdelafarauna/Bot_X.git
    cd Bot_X
    ```
 2. Crear un entorno virtual (opcional pero recomendado):
@@ -41,7 +41,7 @@ Este proyecto es un bot automatizado que obtiene trending topics en español des
 ## 🚀 Uso
 Ejecuta el script principal:
 ```bash
-python main.py
+python app.py
 ```
 El bot buscará el primer trending topic en español, obtendrá noticias relacionadas, generará un tweet y lo publicará en X (Twitter).
 
