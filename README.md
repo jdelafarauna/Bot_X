@@ -1,4 +1,4 @@
-# 🐦 Publicador de Tweets con Python
+# Publicador de Tweets con Python
 
 Este proyecto es un ejemplo sencillo de cómo publicar un tweet automáticamente utilizando Python y la biblioteca **Tweepy**. Con este código, puedes conectarte a tu cuenta de X (anteriormente Twitter) y enviar un mensaje directamente desde tu programa.
 
