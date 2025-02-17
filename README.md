@@ -15,8 +15,8 @@ Este proyecto es un bot automatizado que obtiene trending topics en español des
 ## 🛠️ Instalación y Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/tuusuario/Bot_X.git
+   cd Bot_X
    ```
 2. Crear un entorno virtual (opcional pero recomendado):
    ```bash
