@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Python-blue)  
-![Status](https://img.shields.io/badge/status-inprogress-green)  
+![Status](https://img.shields.io/badge/status-finished-green)  
 
 # 🚀 Bot de Noticias Automático para X (Twitter)
 
